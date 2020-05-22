@@ -1,4 +1,4 @@
-# handgesture
+# Hand Gesture Recognation
 Huawei AR Hand Gesture Recognation Application.
 
 Download Latest Huawei AR Unity package from:
