@@ -16,3 +16,4 @@ Unity 2018.4
 Huawei AR SDK v2.0.0.3 
 
 - This application recognize 10 hand gesture.
+- The latest version of the Huawei AR engine.apk should be installed on the device.
